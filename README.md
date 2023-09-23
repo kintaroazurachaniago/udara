@@ -10,7 +10,7 @@ udara.listen(port, message)
 ```
 ## Udara page
 Use **.udara** extention for this file.
-```html
+```javascript
 <!-- Filename : /index.udara -->
 -=( 'nav', { someData } )=-	<!-- Including -->
 <h1>Main page</h1>
